@@ -13,7 +13,7 @@
 ## Career
 
 * In my current role, I'm building real-time data pipelines and scalable backend APIs as a **Software Engineer at ICAMS, Auburn University**, processing 10,000+ sensor records/hour and deploying cloud infrastructure on AWS using Python, FastAPI, and Docker
-* At my [last job](https://www.alphasense.com/) at **AlphaSense**, I led backend development as a Senior Software Engineer, shipping 10+ features for a high-scale financial research platform, architecting event-driven notification systems on AWS SNS/SQS for 10,000+ users, and managing multi-cloud Kubernetes deployments with 99.9%+ uptime 🚀
+* At my [last job](https://www.alphasense.com/) at **AlphaSense**, I led backend development as a Senior Software Engineer on an enterprise-grade financial research platform, shipping 10+ features, architecting event-driven notification systems on AWS SNS/SQS for 10,000+ users, and managing multi-cloud Kubernetes deployments with 99.9%+ uptime 🚀
 
 ## Skills
 
