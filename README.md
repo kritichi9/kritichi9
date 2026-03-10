@@ -17,18 +17,18 @@
 
 ## Skills
 
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)](https://fastapi.tiangolo.com/)
-[![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)](https://www.djangoproject.com/)
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://www.docker.com/)
-[![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg)](https://kubernetes.io/)
-[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org/)
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
-[![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com/)
-[![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)](https://cloud.google.com/)
-[![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)](https://www.terraform.io/)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
 ## Resume
 
