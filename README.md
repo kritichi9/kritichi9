@@ -32,4 +32,6 @@
 
 ## Resume
 
-[![Resume](https://www.pngfind.com/pngs/m/61-611935_paper-sheet-svg-png-icon-free-download-paper.png)](https://www.linkedin.com/in/kritika-vyas-2a92b1116/)
+<a href="https://www.linkedin.com/in/kritika-vyas-2a92b1116/">
+  <img src="https://www.pngfind.com/pngs/m/61-611935_paper-sheet-svg-png-icon-free-download-paper.png" alt="Resume" width="40" height="40"/>
+</a>
